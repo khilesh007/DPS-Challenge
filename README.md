@@ -32,8 +32,8 @@ Visualizing historically the number of accidents per category
 
 **Number of Accidents per category**
 ![App Screenshot](https://github.com/khilesh007/DPS-Challenge/blob/main/Images/Category.png?raw=true)
-**Number of Accidents per Accident_type**
 
+**Number of Accidents per Accident_type**
 
 ![App Screenshot](https://github.com/khilesh007/DPS-Challenge/blob/main/Images/Accident%20Type.png?raw=true)
 
